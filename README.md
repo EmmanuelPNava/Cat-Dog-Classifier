@@ -1,2 +1,2 @@
-# Cat-Dog-Classifier
-This project was awesome! 
+# Cat Dog Classifier
+Welcome to this amazing project! This repository contains the implementation of a deep learning model designed to distinguish between images of cats and dogs. Leveraging the power of convolutional neural networks (CNNs), this project aims to accurately classify images into one of the two categories, making it a useful tool for various applications in the field of computer vision.
